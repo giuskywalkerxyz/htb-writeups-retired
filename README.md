@@ -4,6 +4,7 @@ Writeups for **retired / out-of-season** HackTheBox machines I've solved. Active
 
 | Machine | Platform | Difficulty | OS | Writeup |
 |---|---|---|---|---|
+| Fireflow | HackTheBox | Medium | Linux (k3s) | [writeup](./Fireflow/README.md) |
 | Management | HackTheBox | Easy | Linux | [writeup](./Management/README.md) |
 
 ---
